@@ -1,0 +1,8 @@
+C:\Users\typollak\Documents\Case Files\117040515556132 - Sean Feldman\asyncRepro\ServiceBusTestAsync\ServiceBusTestAsync\bin\Debug\ServiceBusTestAsync.exe.config
+C:\Users\typollak\Documents\Case Files\117040515556132 - Sean Feldman\asyncRepro\ServiceBusTestAsync\ServiceBusTestAsync\bin\Debug\ServiceBusTestAsync.exe
+C:\Users\typollak\Documents\Case Files\117040515556132 - Sean Feldman\asyncRepro\ServiceBusTestAsync\ServiceBusTestAsync\bin\Debug\ServiceBusTestAsync.pdb
+C:\Users\typollak\Documents\Case Files\117040515556132 - Sean Feldman\asyncRepro\ServiceBusTestAsync\ServiceBusTestAsync\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\typollak\Documents\Case Files\117040515556132 - Sean Feldman\asyncRepro\ServiceBusTestAsync\ServiceBusTestAsync\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\typollak\Documents\Case Files\117040515556132 - Sean Feldman\asyncRepro\ServiceBusTestAsync\ServiceBusTestAsync\obj\Debug\ServiceBusTestAsync.csprojResolveAssemblyReference.cache
+C:\Users\typollak\Documents\Case Files\117040515556132 - Sean Feldman\asyncRepro\ServiceBusTestAsync\ServiceBusTestAsync\obj\Debug\ServiceBusTestAsync.exe
+C:\Users\typollak\Documents\Case Files\117040515556132 - Sean Feldman\asyncRepro\ServiceBusTestAsync\ServiceBusTestAsync\obj\Debug\ServiceBusTestAsync.pdb
